@@ -1,6 +1,0 @@
-# Allow all search engines to index this site
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://vairon-qr-ward.vercel.app/sitemap.xml
